@@ -29,12 +29,13 @@ body
     margin-left: 100px;
   }
   #hack{
-	float:left; 
-	margin-right:-300px;"
+	margin-top:40px;
+	margin-left:778px;
 	}
 	#algo{
 	      float:left;
-	      margin-top:-300px;"
+	      margin-top:-300px;
+
 	}
 }
 @media (min-width: 1200px) {
