@@ -28,6 +28,14 @@ body
     align-items: center; 
     margin-left: 100px;
   }
+  #hack{
+	float:left; 
+	margin-right:-300px;"
+	}
+	#algo{
+	      float:left;
+	      margin-top:-300px;"
+	}
 }
 @media (min-width: 1200px) {
   .container {
